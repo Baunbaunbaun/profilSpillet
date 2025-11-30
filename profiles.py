@@ -1,7 +1,7 @@
 # profiles.py
 
 # Du behøver ikke tænke på fil-endelser (.jpg/.png) her. 
-# Scriptet finder selv billedet, så længe navnet (f.eks. "Rasmus") passer.
+# Scriptet finder selv billedet, så længe navnet (f.eks. "Alan") passer.
 
 PROFILES = [
     {

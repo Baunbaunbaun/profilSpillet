@@ -3,7 +3,6 @@ import matplotlib.patches as patches
 from PIL import Image
 import numpy as np
 import os
-import glob
 
 # Importer profilerne fra den anden fil
 from profiles import PROFILES
