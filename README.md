@@ -48,12 +48,17 @@ pip install -r requirements.txt
     indeholder strukturen for projektets profiler; tilføj eller rediger
     entries der.
 
-Jeg har personligt fodret [Gemini](https://gemini.google.com/app) med 10
-profiler (.pdf) udarbejdet med
-[PrinciplesYou](https://principlesyou.com/) samt filen profiles.py og
-bedt Gemini om at udvide profiles.py. Prompt: "Analyser og udtræk
-relevante informationer for alle PDF og tilføj deres profil til
-profiles.py"
+    For at få information fra personlighedstest til profiles.py brugte jeg [Gemini Pro](https://gemini.google.com/app) som assistent. Men man kan gøre det selv.
+    Jeg uploaded 10 personlighedsprofiler (.pdf) (udarbejdet med
+    [PrinciplesYou](https://principlesyou.com/) ) samt filen profiles.py - og så
+    bad jeg Gemini om at udvide profiles.py.
+
+    Prompt:
+    "Analyser og udtræk relevante informationer for alle PDF og tilføj deres profil til
+    profiles.py"
+
+    OBS: Min Gemini Pro gemmer ikke mine prompts og deler ikke mine informationer. 
+    Vær altid bevidst om, hvordan din egen AI assistent fungerer, så du ikke kommer til at dele privat og sensitivt data om dig selv eller andre. 
 
 **Eksempel på profil (Alan Turing):**
 
